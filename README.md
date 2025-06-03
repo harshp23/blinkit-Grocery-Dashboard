@@ -59,6 +59,7 @@ To analyze and visualize BlinkIT's grocery sales data to gain insights into prod
 3. Explore the visual trends and KPIs in the Dashboard sheet.
 
 ---
+![Dashboard Screenshot](dashboard.png)
 
 
 
